@@ -17,6 +17,7 @@ paused_tracker = 0
 timer = None
 
 
+
 # ---------------------------- TIMER RESET ------------------------------- # 
 def reset_timer():
     global reps
