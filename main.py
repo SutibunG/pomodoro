@@ -62,7 +62,6 @@ def count_down(count):
     global reps
     global PAUSED
     global timer
-    global paused_time
 
 
     count_min = count // 60
